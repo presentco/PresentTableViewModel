@@ -1,0 +1,6 @@
+framework module PresentTableViewModel {
+  umbrella header "PresentTableViewModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

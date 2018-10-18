@@ -1,0 +1,41 @@
+PODS:
+  - PresentTableViewModel (1.0.0):
+    - RxCocoa
+    - Then
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - Then (2.4.0)
+  - TinyConstraints (3.3.0)
+
+DEPENDENCIES:
+  - PresentTableViewModel (from `https://github.com/presentco/PresentTableViewModel.git`)
+  - Then
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxCocoa
+    - RxSwift
+    - Then
+    - TinyConstraints
+
+EXTERNAL SOURCES:
+  PresentTableViewModel:
+    :git: https://github.com/presentco/PresentTableViewModel.git
+
+CHECKOUT OPTIONS:
+  PresentTableViewModel:
+    :commit: 9df2e31428e764cdf60273143c22c5db40ff7324
+    :git: https://github.com/presentco/PresentTableViewModel.git
+
+SPEC CHECKSUMS:
+  PresentTableViewModel: 2cde1766d0a7f42b7dfb50e75a3e6cf66b44d049
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+  TinyConstraints: 6d0e495e72372556b31a0cc9b60983d5f780ef2f
+
+PODFILE CHECKSUM: 0d8fd3787605fe4a3ded5b092c86cf15c2b0974f
+
+COCOAPODS: 1.5.3
